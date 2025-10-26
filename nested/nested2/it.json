@@ -1,9 +1,9 @@
 {
-  "mypages.header1": "Welcome",
-  "mypages.header2": "Home Page",
-  "new": "source",
-  "banner.welcome": "Welcome to BrightWing!",
-  "banner.subheader": "Here you can do stuff!",
+  "mypages.header1": "Benvenuto",
+  "mypages.header2": "Pagina Iniziale",
+  "new": "fonte",
+  "banner.welcome": "Benvenuto a BrightWing!",
+  "banner.subheader": "Qui puoi fare cose!",
   "link_test_href": "https://www.google.com",
   "link_test_text": "google.com",
   "image_test_src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa74vMmBlgR8bEN1jLAwpqj_26w03a507H2A&s"
