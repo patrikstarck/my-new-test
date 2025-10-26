@@ -1,1 +1,10 @@
-{"mypages.header1":"Bienvenue","mypages.header2":"Page d'accueil","new":"source"}
+{
+  "mypages.header1": "Bienvenue",
+  "mypages.header2": "Page d'accueil",
+  "new": "source",
+  "banner.welcome": "Bienvenue chez BrightWing !",
+  "banner.subheader": "Ici, vous pouvez faire des choses !",
+  "link_test_href": "https://www.google.com",
+  "link_test_text": "google.com",
+  "image_test_src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa74vMmBlgR8bEN1jLAwpqj_26w03a507H2A&s"
+}

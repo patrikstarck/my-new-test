@@ -1,1 +1,10 @@
-{"mypages.header1":"Willkommen","mypages.header2":"Startseite","new":"detuscasdf","banner.welcome":"Willkommen bei BrightWing!","banner.subheader":"Hier können Sie Dinge erledigen!","link_test_href":"https://www.google.de","link_test_text":"google.de","image_test_src":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa74vMmBlgR8bEN1jLAwpqj_26w03a507H2A&s"}
+{
+  "mypages.header1": "Willkommen",
+  "mypages.header2": "Startseite",
+  "new": "detuscasdf",
+  "banner.welcome": "Willkommen bei BrightWing!",
+  "banner.subheader": "Hier können Sie Dinge erledigen!",
+  "link_test_href": "https://www.google.de",
+  "link_test_text": "google.de",
+  "image_test_src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa74vMmBlgR8bEN1jLAwpqj_26w03a507H2A&s"
+}

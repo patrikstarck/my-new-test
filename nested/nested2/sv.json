@@ -1,1 +1,10 @@
-{"mypages.header1":"Välkommen","mypages.header2":"Hemsida","new":"källa","banner.welcome":"Välkommen till BrightWing!!! 1","banner.subheader":"Här kan du göra grejerasdf.","link_test_href":"https://www.google.se","link_test_text":"google.se","image_test_src":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa74vMmBlgR8bEN1jLAwpqj_26w03a507H2A&s"}
+{
+  "mypages.header1": "Välkommen",
+  "mypages.header2": "Hemsida",
+  "new": "källa",
+  "banner.welcome": "Välkommen till BrightWing!!! 1",
+  "banner.subheader": "Här kan du göra grejerasdf.",
+  "link_test_href": "https://www.google.se",
+  "link_test_text": "google.se",
+  "image_test_src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa74vMmBlgR8bEN1jLAwpqj_26w03a507H2A&s"
+}
