@@ -7887,6 +7887,7 @@
   "ORD_INFO_TYPE.INFO_TYPE_821900": "",
   "RegularForm1.activateInquiryButton_mnemonic": "i",
   "RadonDosReportingForm.lblTelephone": "Telefon",
+  "mypages.header1": "Välkommen",
   "ReportResultForm.saveButton_mnemonic": "s",
   "RegularForm1.updateSalesStatisticsButton": "Visa säljstatistik",
   "error.Invoice": "Okänt fel.",
@@ -8097,6 +8098,8 @@
   "mypages.commission.delete": "Ta bort",
   "Analyser.dialogTitleBlankSubtraction": "Blank över LDL",
   "FilmEditingForm.viewFilmButton": "Visa Foto",
+  "mypages.header2": "Hemsida",
+  "new": "Nej detta är inte bra!",
   "InvoiceOrderForm.searchAnalysis": "Sök analys",
   "mypages.error.generic_save_error": "Något gick vid fel när det skulle sparas...",
   "public.ord.password": "Åtkomstkod",
@@ -8338,7 +8341,7 @@
   "error.EditSheetInvalidSheet": "Ogiltigt ark.",
   "mypages.measurementproject.lockedAndSelectedForAnalysis": "Låst och vald för analys",
   "clientErrMsg.AnalysisPriceWithoutServicePrice": "Servicen med nr [{0}] har ett analysdelbelopp men inget servicepris. \n Priser för blandat fakturering (leverans & analys) kan endast sättas på kundnivå.",
-  "mypages.introduction.intro1.text3": "Mapparna är utformade för att förenkla organiseringen av dynamiska mätningar. Flytta en eller flera mätuppgifter till en ny mapp och ställ in specifika behörigheter för vem som ska ha åtkomst till mätningarna i mappen.",
   "mypages.introduction.intro1.text2": "Vi introducerar mappar/projekt",
-  "mypages.settings.postalNumber": "Postnummer"
+  "mypages.settings.postalNumber": "Postnummer",
+  "mypages.introduction.intro1.text3": "Mapparna är utformade för att förenkla organiseringen av dynamiska mätningar. Flytta en eller flera mätuppgifter till en ny mapp och ställ in specifika behörigheter för vem som ska ha åtkomst till mätningarna i mappen."
 }
