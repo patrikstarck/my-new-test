@@ -7887,6 +7887,7 @@
   "ORD_INFO_TYPE.INFO_TYPE_821900": "",
   "RegularForm1.activateInquiryButton_mnemonic": "",
   "RadonDosReportingForm.lblTelephone": "",
+  "mypages.header1": "Willkommen",
   "ReportResultForm.saveButton_mnemonic": "",
   "RegularForm1.updateSalesStatisticsButton": "",
   "error.Invoice": "",
@@ -8097,6 +8098,8 @@
   "mypages.commission.delete": "",
   "Analyser.dialogTitleBlankSubtraction": "",
   "FilmEditingForm.viewFilmButton": "",
+  "mypages.header2": "Startseite",
+  "new": "detuscasdf",
   "InvoiceOrderForm.searchAnalysis": "",
   "mypages.error.generic_save_error": "",
   "public.ord.password": "",
@@ -8338,7 +8341,7 @@
   "error.EditSheetInvalidSheet": "",
   "mypages.measurementproject.lockedAndSelectedForAnalysis": "",
   "clientErrMsg.AnalysisPriceWithoutServicePrice": "",
-  "mypages.introduction.intro1.text3": "",
   "mypages.introduction.intro1.text2": "",
-  "mypages.settings.postalNumber": ""
+  "mypages.settings.postalNumber": "",
+  "mypages.introduction.intro1.text3": "Die Ordner sind so gestaltet, dass sie die Organisation dynamischer Messungen vereinfachen. Verschieben Sie eine oder mehrere Messaufgaben in einen neuen Ordner und legen Sie spezifische Berechtigungen fest, wer Zugriff auf die Messungen innerhalb des Ordners haben soll. Wir ändern diese kleine Sache."
 }
