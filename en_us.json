@@ -8343,5 +8343,5 @@
   "clientErrMsg.AnalysisPriceWithoutServicePrice": "The service with id [{0}] has an analysis price, but no service price. \n It is only possible to have mixed invoicing on customer prices.",
   "mypages.introduction.intro1.text2": "Is a new value",
   "mypages.settings.postalNumber": "Zip code",
-  "mypages.introduction.intro1.text3": "The folders are designed to simplify the organization of dynamic measurements. Move one or more measurement tasks into a new folder and set specific permissions for who should have access to the measurements within the folder. We are changing this tiny thing. __asdf__"
+  "mypages.introduction.intro1.text3": "The folders are designed to simplify the organization of dynamic measurements. Move one or more measurement tasks into a new folder and set specific permissions for who should have access to the measurements within the folder. We are changing this tiny thing. __asdf__."
 }
